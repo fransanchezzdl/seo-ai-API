@@ -5,6 +5,23 @@ Proyecto de clase: API REST en **Python ≥ 3.12**, **FastAPI**, **Pydantic 2** 
 o **gpt-4o** compatible con salidas estructuradas. Implementa los cinco endpoints
 solicitados, validación de entrada/salida, prompts especializados y errores HTTP.
 
+---
+
+## Assessment & Recognition
+
+<div align="center">
+
+### **Final Grade: 10 / 10** 
+
+*Evaluated by **UNIR** (Universidad Internacional de La Rioja)*  
+*Applied Technology for Business Program*
+
+</div>
+
+> **Evaluation Note:** Passed with maximum score, fulfilling 100% of the technical criteria, well-structured API using routers, Pydantic models, and services, with Azure OpenAI integration. Key strengths include input validation, secure JSON-LD generation, and comprehensive testing.
+
+---
+
 ## Ejecutar
 
 ```bash
