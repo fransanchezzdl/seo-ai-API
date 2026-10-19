@@ -7,18 +7,18 @@ solicitados, validación de entrada/salida, prompts especializados y errores HTT
 
 ---
 
-## Assessment & Recognition
+## Evaluación y reconocimiento
 
 <div align="center">
 
-### **Final Grade: 10 / 10** 
+### **Calificación final: 10 / 10**
 
-*Evaluated by **UNIR** (Universidad Internacional de La Rioja)*  
-*Applied Technology for Business Program*
+*Evaluado por **UNIR** (Universidad Internacional de La Rioja)*  
+*Programa de Tecnología Aplicada a los Negocios*
 
 </div>
 
-> **Evaluation Note:** Passed with maximum score, fulfilling 100% of the technical criteria, well-structured API using routers, Pydantic models, and services, with Azure OpenAI integration. Key strengths include input validation, secure JSON-LD generation, and comprehensive testing.
+> **Comentario de evaluación:** Aprobado con la máxima puntuación, cumpliendo el 100 % de los criterios técnicos. API bien estructurada mediante routers, modelos Pydantic y servicios, con integración de Azure OpenAI. Destacan la validación de entradas, la generación segura de JSON-LD y la amplia cobertura de pruebas.
 
 ---
 
